@@ -57,8 +57,8 @@ For our second week we scheduled:
 *Week 2 results*  
 
 * game over screen
-* ai for the bats
-* grafics
+* AI for the bats
+* graphics
 * leaderboard/highscores
 * instructions (how to play)
 * UI/UX testing
